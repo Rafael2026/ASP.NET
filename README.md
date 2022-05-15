@@ -1,12 +1,6 @@
-# ASP.NET
-Install .NET and create my first web application
-
-
 ## Introduction
-<a href="https://dotnet.microsoft.com/en-us/learn/aspnet/hello-world-tutorial/intro">ASP.NET Introduction</a>
-
-## Video
 [![IMAGE ALT TEXT HERE](https://i3.ytimg.com/vi/lE8NdaX97m0/maxresdefault.jpg)](https://www.youtube.com/watch?v=lE8NdaX97m0&list=PLdo4fOcmZ0oW8nviYduHq7bmKode-p8Wy)
+<a href="https://dotnet.microsoft.com/en-us/learn/aspnet/hello-world-tutorial/intro">ASP.NET Introduction</a>
 
 ## Download and install
 <a href="https://dotnet.microsoft.com/en-us/learn/aspnet/hello-world-tutorial/install">Download and install ASP.NET</a>
