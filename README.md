@@ -21,8 +21,8 @@
 ## Following steps
 <a href="https://dotnet.microsoft.com/en-us/learn/aspnet/hello-world-tutorial/next">Next steps</a>
 
-## Learn ASP.NET
-<a href="https://dotnet.microsoft.com/en-us/learn/aspnet/hello-world-tutorial/next">How to learn ASP.NET?</a>
+## ASP.NET W3 Schools 
+<a href="https://www.w3schools.com/asp/default.asp">How to learn ASP.NET?</a>
 
 ## Build a REST API
 <a href="https://docs.microsoft.com/es-es/learn/modules/build-web-api-aspnet-core/?WT.mc_id=dotnet-35129-website">How to create REST API with ASP.NET?</a>
