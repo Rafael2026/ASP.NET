@@ -6,7 +6,7 @@ Install .NET and create my first web application
 <a href="https://dotnet.microsoft.com/en-us/learn/aspnet/hello-world-tutorial/intro">ASP.NET Introduction</a>
 
 ## Video "What is ASP.NET?"
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lE8NdaX97m0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="490" height="276" src="https://www.youtube.com/embed/lE8NdaX97m0?list=PLdo4fOcmZ0oW8nviYduHq7bmKode-p8Wy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Download and install
 <a href="https://dotnet.microsoft.com/en-us/learn/aspnet/hello-world-tutorial/install">Download and install ASP.NET</a>
