@@ -7,6 +7,7 @@ Install .NET and create my first web application
 
 ## Video
 <a href="https://youtu.be/lE8NdaX97m0?list=PLdo4fOcmZ0oW8nviYduHq7bmKode-p8Wy">What is ASP.NET?</a>
+[![IMAGE ALT TEXT HERE](https://i3.ytimg.com/vi/lE8NdaX97m0/maxresdefault.jpg)](https://www.youtube.com/watch?v=lE8NdaX97m0&list=PLdo4fOcmZ0oW8nviYduHq7bmKode-p8Wy)
 
 ## Download and install
 <a href="https://dotnet.microsoft.com/en-us/learn/aspnet/hello-world-tutorial/install">Download and install ASP.NET</a>
