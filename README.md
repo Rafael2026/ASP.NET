@@ -1,5 +1,5 @@
 ## Get img youtube video
-<a href="https://www.get-youtube-thumbnail.com/"></a>
+<a href="https://www.get-youtube-thumbnail.com/">Get YouTube Video Thumbnail Image</a>
 
 ## Introduction
 [![IMAGE ALT TEXT HERE](https://i3.ytimg.com/vi/lE8NdaX97m0/maxresdefault.jpg)](https://www.youtube.com/watch?v=lE8NdaX97m0&list=PLdo4fOcmZ0oW8nviYduHq7bmKode-p8Wy)
