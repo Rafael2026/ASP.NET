@@ -1,6 +1,3 @@
-## Get img youtube video
-<a href="https://www.get-youtube-thumbnail.com/">Get YouTube Video Thumbnail Image</a>
-
 ## Tutorials ASP .NET
 <a href="https://dotnet.microsoft.com/en-us/learn/aspnet/hello-world-tutorial/intro">ASP .NET Introduction</a>
 
