@@ -1,5 +1,5 @@
-## Tutorials ASP .NET
-<a href="https://dotnet.microsoft.com/en-us/learn/aspnet/hello-world-tutorial/intro">ASP .NET Introduction</a>
+## Playlist ASP .NET for beginners
+<a href="https://www.youtube.com/watch?v=lE8NdaX97m0&list=PLdo4fOcmZ0oW8nviYduHq7bmKode-p8Wy">ASP .NET Introduction</a>
 
 ## Download and install
 <a href="https://download.visualstudio.microsoft.com/download/pr/1d8ab392-e8aa-4c0b-a1d3-15b76aea41b8/80b4b613d23193ef955c132b18d39526/dotnet-sdk-6.0.300-win-arm64.exe">
