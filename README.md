@@ -15,7 +15,7 @@ More information: [link](https://dotnet.microsoft.com/en-us/learn/aspnet/hello-w
 
 ## Run ASP.NET app
 ```bash
-cd 'folder_namer'
+cd 'folder_name'
 
 dotnet watch
 ```
