@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "N1jMmMNjeaQdKXJnj91rn9SWHDOPyUZdy9SJLcn9P5jxukULbRO3PGd6SmGoCEWkx9xKjtkwPLYTJ5cscrsVmQ==",
+  "success": true,
+  "projectFilePath": "C:\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anonimo\\.nuget\\packages\\microsoft.aspnetcore.authentication.negotiate\\6.0.15\\microsoft.aspnetcore.authentication.negotiate.6.0.15.nupkg.sha512",
+    "C:\\Users\\Anonimo\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\6.0.15\\microsoft.aspnetcore.connections.abstractions.6.0.15.nupkg.sha512",
+    "C:\\Users\\Anonimo\\.nuget\\packages\\microsoft.extensions.features\\6.0.15\\microsoft.extensions.features.6.0.15.nupkg.sha512",
+    "C:\\Users\\Anonimo\\.nuget\\packages\\system.directoryservices.protocols\\6.0.1\\system.directoryservices.protocols.6.0.1.nupkg.sha512",
+    "C:\\Users\\Anonimo\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
