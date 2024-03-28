@@ -1,40 +1,38 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net8.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\rafaa\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Anonimo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafaa\\OneDrive\\Escritorio\\GitHub\\ASP.NET\\MyWebApp\\MyWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\Anonimo\\OneDrive\\Desktop\\GitHub\\ASP.NET\\MyWebApp\\MyWebApp.csproj",
       "projectName": "MyWebApp",
-      "projectPath": "C:\\Users\\rafaa\\OneDrive\\Escritorio\\GitHub\\ASP.NET\\MyWebApp\\MyWebApp.csproj",
-      "packagesPath": "C:\\Users\\rafaa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafaa\\OneDrive\\Escritorio\\GitHub\\ASP.NET\\MyWebApp\\obj\\",
+      "projectPath": "C:\\Users\\Anonimo\\OneDrive\\Desktop\\GitHub\\ASP.NET\\MyWebApp\\MyWebApp.csproj",
+      "packagesPath": "C:\\Users\\Anonimo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Anonimo\\OneDrive\\Desktop\\GitHub\\ASP.NET\\MyWebApp\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\rafaa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Anonimo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -42,11 +40,16 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "imports": [
           "net461",
           "net462",
@@ -66,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

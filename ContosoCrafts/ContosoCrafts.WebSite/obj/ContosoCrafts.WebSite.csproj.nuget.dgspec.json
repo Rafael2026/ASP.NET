@@ -1,37 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj": {}
+    "C:\\Users\\Anonimo\\OneDrive\\Desktop\\GitHub\\ASP.NET\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj": {}
   },
   "projects": {
-    "C:\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj": {
+    "C:\\Users\\Anonimo\\OneDrive\\Desktop\\GitHub\\ASP.NET\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj",
+        "projectUniqueName": "C:\\Users\\Anonimo\\OneDrive\\Desktop\\GitHub\\ASP.NET\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj",
         "projectName": "ContosoCrafts.WebSite",
-        "projectPath": "C:\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj",
+        "projectPath": "C:\\Users\\Anonimo\\OneDrive\\Desktop\\GitHub\\ASP.NET\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj",
         "packagesPath": "C:\\Users\\Anonimo\\.nuget\\packages\\",
-        "outputPath": "C:\\ContosoCrafts\\ContosoCrafts.WebSite\\obj\\",
+        "outputPath": "C:\\Users\\Anonimo\\OneDrive\\Desktop\\GitHub\\ASP.NET\\ContosoCrafts\\ContosoCrafts.WebSite\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Anonimo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -39,15 +34,20 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.Negotiate": {
               "target": "Package",
-              "version": "[6.0.15, )"
+              "version": "[8.0.3, )"
             }
           },
           "imports": [
@@ -69,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

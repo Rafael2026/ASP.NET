@@ -1,14 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "N1jMmMNjeaQdKXJnj91rn9SWHDOPyUZdy9SJLcn9P5jxukULbRO3PGd6SmGoCEWkx9xKjtkwPLYTJ5cscrsVmQ==",
+  "dgSpecHash": "qV5GgS5jw0u9O7tmCc873v0ZEleb9KEIBnFlaj12idqjXVNyo9uHo4iPcFJzLoMlsu1aJR8rFSw/sG9ACvzkXA==",
   "success": true,
-  "projectFilePath": "C:\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj",
+  "projectFilePath": "C:\\Users\\Anonimo\\OneDrive\\Desktop\\GitHub\\ASP.NET\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Anonimo\\.nuget\\packages\\microsoft.aspnetcore.authentication.negotiate\\6.0.15\\microsoft.aspnetcore.authentication.negotiate.6.0.15.nupkg.sha512",
-    "C:\\Users\\Anonimo\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\6.0.15\\microsoft.aspnetcore.connections.abstractions.6.0.15.nupkg.sha512",
-    "C:\\Users\\Anonimo\\.nuget\\packages\\microsoft.extensions.features\\6.0.15\\microsoft.extensions.features.6.0.15.nupkg.sha512",
-    "C:\\Users\\Anonimo\\.nuget\\packages\\system.directoryservices.protocols\\6.0.1\\system.directoryservices.protocols.6.0.1.nupkg.sha512",
-    "C:\\Users\\Anonimo\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512"
+    "C:\\Users\\Anonimo\\.nuget\\packages\\microsoft.aspnetcore.authentication.negotiate\\8.0.3\\microsoft.aspnetcore.authentication.negotiate.8.0.3.nupkg.sha512",
+    "C:\\Users\\Anonimo\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\8.0.3\\microsoft.aspnetcore.connections.abstractions.8.0.3.nupkg.sha512",
+    "C:\\Users\\Anonimo\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Anonimo\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "C:\\Users\\Anonimo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Anonimo\\.nuget\\packages\\microsoft.extensions.features\\8.0.3\\microsoft.extensions.features.8.0.3.nupkg.sha512",
+    "C:\\Users\\Anonimo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Anonimo\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\Anonimo\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Anonimo\\.nuget\\packages\\system.directoryservices.protocols\\8.0.0\\system.directoryservices.protocols.8.0.0.nupkg.sha512",
+    "C:\\Users\\Anonimo\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

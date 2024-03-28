@@ -1,0 +1,41 @@
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\appsettings.json
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\libman.json
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\ASP.NET Project.staticwebassets.runtime.json
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\ASP.NET Project.exe
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\ASP.NET Project.deps.json
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\ASP.NET Project.runtimeconfig.json
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\ASP.NET Project.dll
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\ASP.NET Project.pdb
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\ASP.NET Project.csproj.AssemblyReference.cache
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\ASP.NET Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\ASP.NET Project.AssemblyInfoInputs.cache
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\ASP.NET Project.AssemblyInfo.cs
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\ASP.NET Project.csproj.CoreCompileInputs.cache
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\ASP.NET Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\ASP.NET Project.RazorAssemblyInfo.cache
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\ASP.NET Project.RazorAssemblyInfo.cs
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\ASP.NET Project.sourcelink.json
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\staticwebassets\msbuild.ASP.NET Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\staticwebassets\msbuild.build.ASP.NET Project.props
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET Project.props
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASP.NET Project.props
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\scopedcss\bundle\ASP.NET Project.styles.css
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\scopedcss\projectbundle\ASP.NET Project.bundle.scp.css
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\ASP.NET .AEBA71B5.Up2Date
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\ASP.NET Project.dll
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\refint\ASP.NET Project.dll
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\ASP.NET Project.pdb
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\ASP.NET Project.genruntimeconfig.cache
+C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\ref\ASP.NET Project.dll
