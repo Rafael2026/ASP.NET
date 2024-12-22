@@ -39,3 +39,48 @@ C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.
 C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\ASP.NET Project.pdb
 C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\ASP.NET Project.genruntimeconfig.cache
 C:\Users\Anonimo\OneDrive\Desktop\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\ref\ASP.NET Project.dll
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\appsettings.Development.json
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\appsettings.json
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\libman.json
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\ASP.NET Project.staticwebassets.runtime.json
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\ASP.NET Project.staticwebassets.endpoints.json
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\ASP.NET Project.exe
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\ASP.NET Project.deps.json
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\ASP.NET Project.runtimeconfig.json
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\ASP.NET Project.dll
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\ASP.NET Project.pdb
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\ASP.NET Project.csproj.AssemblyReference.cache
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\ASP.NET Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\ASP.NET Project.AssemblyInfoInputs.cache
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\ASP.NET Project.AssemblyInfo.cs
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\ASP.NET Project.csproj.CoreCompileInputs.cache
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\ASP.NET Project.MvcApplicationPartsAssemblyInfo.cache
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\ASP.NET Project.RazorAssemblyInfo.cache
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\ASP.NET Project.RazorAssemblyInfo.cs
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\ASP.NET Project.sourcelink.json
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\scopedcss\bundle\ASP.NET Project.styles.css
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\scopedcss\projectbundle\ASP.NET Project.bundle.scp.css
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\staticwebassets.build.json
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\staticwebassets.development.json
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\staticwebassets\msbuild.ASP.NET Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\staticwebassets\msbuild.ASP.NET Project.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\staticwebassets\msbuild.build.ASP.NET Project.props
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET Project.props
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASP.NET Project.props
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\staticwebassets.pack.json
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\ASP.NET .AEBA71B5.Up2Date
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\ASP.NET Project.dll
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\refint\ASP.NET Project.dll
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\ASP.NET Project.pdb
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\ASP.NET Project.genruntimeconfig.cache
+D:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net8.0\ref\ASP.NET Project.dll
