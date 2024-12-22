@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Debug",
+    "\\bin\\Debug\\net8.0",
+    "\\bin\\Debug\\net9.0",
+    "\\bin\\Release",
+    "\\bin\\Release\\net9.0",
+    "\\Properties",
+    "\\scripts",
+    "\\wwwroot\\js"
+  ],
+  "SelectedNode": "\\MyWebApp.csproj",
+  "PreviewInSolutionExplorer": false
+}

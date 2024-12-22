@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
-    "",
     "\\bin",
+    "\\bin\\Debug",
+    "\\bin\\Debug\\net9.0",
+    "\\bin\\Release",
+    "\\bin\\Release\\net9.0",
     "\\Properties"
   ],
-  "SelectedNode": "\\appsettings.json",
   "PreviewInSolutionExplorer": false
 }
