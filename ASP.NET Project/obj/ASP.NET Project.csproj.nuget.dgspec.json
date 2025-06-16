@@ -1,22 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "D:\\COPIA\\GitHub\\ASP.NET\\ASP.NET Project\\ASP.NET Project.csproj": {}
+    "E:\\COPIA\\GitHub\\ASP.NET\\ASP.NET Project\\ASP.NET Project.csproj": {}
   },
   "projects": {
-    "D:\\COPIA\\GitHub\\ASP.NET\\ASP.NET Project\\ASP.NET Project.csproj": {
+    "E:\\COPIA\\GitHub\\ASP.NET\\ASP.NET Project\\ASP.NET Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\COPIA\\GitHub\\ASP.NET\\ASP.NET Project\\ASP.NET Project.csproj",
+        "projectUniqueName": "E:\\COPIA\\GitHub\\ASP.NET\\ASP.NET Project\\ASP.NET Project.csproj",
         "projectName": "ASP.NET Project",
-        "projectPath": "D:\\COPIA\\GitHub\\ASP.NET\\ASP.NET Project\\ASP.NET Project.csproj",
+        "projectPath": "E:\\COPIA\\GitHub\\ASP.NET\\ASP.NET Project\\ASP.NET Project.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "D:\\COPIA\\GitHub\\ASP.NET\\ASP.NET Project\\obj\\",
+        "outputPath": "E:\\COPIA\\GitHub\\ASP.NET\\ASP.NET Project\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "CentralPackageTransitivePinningEnabled": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -24,6 +28,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,7 +50,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -53,12 +58,66 @@
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.Negotiate": {
               "target": "Package",
-              "version": "[9.0.0, )",
+              "version": "[9.0.6, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.AspNetCore.Connections.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.6, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.6, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[9.0.6, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.6, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Extensions.Features": {
+              "target": "Package",
+              "version": "[9.0.6, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.6, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[9.0.6, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Extensions.Primitives": {
+              "target": "Package",
+              "version": "[9.0.6, )",
+              "versionCentrallyManaged": true
+            },
+            "System.DirectoryServices.Protocols": {
+              "target": "Package",
+              "version": "[9.0.6, )",
               "versionCentrallyManaged": true
             }
           },
           "centralPackageVersions": {
-            "Microsoft.AspNetCore.Authentication.Negotiate": "9.0.0"
+            "Microsoft.AspNetCore.Authentication.Negotiate": "9.0.6",
+            "Microsoft.AspNetCore.Connections.Abstractions": "9.0.6",
+            "Microsoft.Extensions.Caching.Abstractions": "9.0.6",
+            "Microsoft.Extensions.Caching.Memory": "9.0.6",
+            "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.6",
+            "Microsoft.Extensions.Features": "9.0.6",
+            "Microsoft.Extensions.Logging.Abstractions": "9.0.6",
+            "Microsoft.Extensions.Options": "9.0.6",
+            "Microsoft.Extensions.Primitives": "9.0.6",
+            "System.DirectoryServices.Protocols": "9.0.6"
           },
           "imports": [
             "net461",
@@ -79,7 +138,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\COPIA\\GitHub\\ASP.NET\\ContosoCrafts\\",
+  "WorkspaceRootPath": "E:\\COPIA\\GitHub\\ASP.NET\\ContosoCrafts\\",
   "Documents": [],
   "DocumentGroupContainers": [
     {
@@ -18,6 +18,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
             }
           ]
         }
