@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\COPIA\\GitHub\\ASP.NET\\MyWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE160F80-C804-4DCB-3E6B-5D99DC7C094B}|MyWebApp.csproj|f:\\copia\\github\\asp.net\\mywebapp\\mywebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE160F80-C804-4DCB-3E6B-5D99DC7C094B}|MyWebApp.csproj|solutionrelative:mywebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyWebApp",
+              "DocumentMoniker": "F:\\COPIA\\GitHub\\ASP.NET\\MyWebApp\\MyWebApp.csproj",
+              "RelativeDocumentMoniker": "MyWebApp.csproj",
+              "ToolTip": "F:\\COPIA\\GitHub\\ASP.NET\\MyWebApp\\MyWebApp.csproj",
+              "RelativeToolTip": "MyWebApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T17:57:17.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

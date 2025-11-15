@@ -109,3 +109,117 @@ E:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\refint\ASP.NET Project.
 E:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\ASP.NET Project.pdb
 E:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\ASP.NET Project.genruntimeconfig.cache
 E:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\ref\ASP.NET Project.dll
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net9.0\appsettings.Development.json
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net9.0\appsettings.json
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net9.0\libman.json
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net9.0\ASP.NET Project.staticwebassets.runtime.json
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net9.0\ASP.NET Project.staticwebassets.endpoints.json
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net9.0\ASP.NET Project.exe
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net9.0\ASP.NET Project.deps.json
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net9.0\ASP.NET Project.runtimeconfig.json
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net9.0\ASP.NET Project.dll
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net9.0\ASP.NET Project.pdb
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net9.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net9.0\Microsoft.Extensions.Features.dll
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net9.0\System.Diagnostics.DiagnosticSource.dll
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net9.0\System.DirectoryServices.Protocols.dll
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net9.0\System.IO.Pipelines.dll
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net9.0\runtimes\linux\lib\net9.0\System.DirectoryServices.Protocols.dll
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net9.0\runtimes\osx\lib\net9.0\System.DirectoryServices.Protocols.dll
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.DirectoryServices.Protocols.dll
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\ASP.NET Project.csproj.AssemblyReference.cache
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\rpswa.dswa.cache.json
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\ASP.NET Project.GeneratedMSBuildEditorConfig.editorconfig
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\ASP.NET Project.AssemblyInfoInputs.cache
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\ASP.NET Project.AssemblyInfo.cs
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\ASP.NET Project.csproj.CoreCompileInputs.cache
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\ASP.NET Project.MvcApplicationPartsAssemblyInfo.cache
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\ASP.NET Project.RazorAssemblyInfo.cache
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\ASP.NET Project.RazorAssemblyInfo.cs
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\ASP.NET Project.sourcelink.json
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\rjimswa.dswa.cache.json
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\scopedcss\bundle\ASP.NET Project.styles.css
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\scopedcss\projectbundle\ASP.NET Project.bundle.scp.css
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\jsp7pj0hh1-oq8r4nbcb2.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\b9gdw20uaz-61n19gt1b8.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\yvqvh8byr0-6b9nfc4n3r.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\eerkzm2g68-agp80tu62r.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\52zvl30gi7-st1cbwfwo5.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\v520bua45m-unj9p35syc.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\uifnzin9rh-5vj65cig9w.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\h9qywvlf2s-q2ku51ktnl.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\cnisu1ampq-2q4vfeazbq.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\f8dfkprw7z-n1oizzvkh6.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\wbk8k57nwf-o371a8zbv2.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\ywhksbb4yb-7na4sro3qu.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\6bzl4tfa3g-jeal3x0ldm.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\fdu33oknqv-f8imaxxbri.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\jdcvx046sc-okkk44j0xs.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\cmcc32sxw8-0wve5yxp74.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\f5m9pcbeqt-cwzlr5n8x4.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\c3fi4kxuco-npxfuf8dg6.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\2di92qo7xu-wmug9u23qg.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\lbf6wmazrd-tey0rigmnh.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\cd4zcy0fik-j75batdsum.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\yn7as8he6t-16095smhkz.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\emszbga5mu-vy0bq9ydhf.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\qry67aj9qd-b4skse8du6.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\oylwwx0u2t-ab1c3rmv7g.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\gv4wzvvosn-u3xrusw2ol.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\mkbymcqtex-56d2bn4wt9.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\ah2i0hhaek-mpyigms19s.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\4tlbojtp60-73kdqttayv.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\coixgohpuq-bpk8xqwxhs.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\xpx07puttb-8inm30yfxf.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\cd4nzsdq5k-ve6x09088i.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\xviqym1lhu-4gxs3k148c.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\apkwpvrdzs-9b9oa1qrmt.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\tpuseh8mmy-fctod5rc9n.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\8vxqnu62ij-l2av4jpuoj.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\jewz48bbpl-kbynt5jhd9.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\31zmpgza2e-25iw1kog22.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\q2x6oyfecp-c2nslu3uf3.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\lg9on3cuii-m39kt2b5c9.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\8jjbhv2zvd-2lgwfvgpvi.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\d4hou70u8o-um2aeqy4ik.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\bsi7xjytl3-wsezl0heh6.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\47hz05ggsb-o4kw7cc6tf.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\z5ejovwe3e-6ukhryfubh.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\bigiqstn61-zwph15dxgs.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\1o2qn5n843-u33ctipx7g.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\ytg4lxj6xm-0td7jq9nxb.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\60mulw9zfp-zsyoy62yqm.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\vob1y8iekx-wqejeusuyq.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\qolzri69mk-wus95c49fh.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\8tgo9hd6aw-sjab29p8z5.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\qu64g94o32-jdpnbaa6vo.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\kuggp6vih6-59qolqi738.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\3kwic5k68z-x0q3zqp4vz.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\76ti7tul68-z7gatbwsm4.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\vadkopyepc-5trh6b1mit.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\l6370jbnyn-dsw5v3fbc5.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\0czprplaf4-afgyafcsqt.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\nc4zj6jxsf-rl4bnriawb.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\compressed\zpqqqa66kn-rl4bnriawb.gz
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\staticwebassets.build.json
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\staticwebassets.build.json.cache
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\staticwebassets.development.json
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\ASP.NET .AEBA71B5.Up2Date
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\ASP.NET Project.dll
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\refint\ASP.NET Project.dll
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\ASP.NET Project.pdb
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\ASP.NET Project.genruntimeconfig.cache
+F:\COPIA\GitHub\ASP.NET\ASP.NET Project\obj\Debug\net9.0\ref\ASP.NET Project.dll
